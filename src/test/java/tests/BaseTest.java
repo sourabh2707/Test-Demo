@@ -15,6 +15,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class BaseTest {
 	//commit 1
 	//Please add new commit
+	//commit 2
 	public static WebDriver driver;
 	public Properties prop;
 	FileInputStream fis;
